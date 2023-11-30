@@ -1,0 +1,11 @@
+Model Information:
+* title:	Table
+* source:	https://sketchfab.com/3d-models/table-97f7ccdab0994b1c87dd212fc99a7a64
+* author:	Igor_K. (https://sketchfab.com/Igor_K.)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Table" (https://sketchfab.com/3d-models/table-97f7ccdab0994b1c87dd212fc99a7a64) by Igor_K. (https://sketchfab.com/Igor_K.) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
