@@ -1,0 +1,9 @@
+imageio==2.33.0
+numpy==1.26.2
+Panda3D==1.10.13.post1
+panda3d-gltf==1.0.1
+panda3d-simplepbr==0.10
+Pillow==10.1.0
+pyperclip==1.8.2
+screeninfo==0.8.1
+ursina==6.1.2
