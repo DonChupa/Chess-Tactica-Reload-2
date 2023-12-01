@@ -8,7 +8,7 @@ def pieces():
                'assets/fichas/knight/scene.gltf',
                'assets/fichas/king/scene.gltf',
                'assets/fichas/queen/scene.gltf',
-               'assets/fichas/pawn/scene']
+               'assets/fichas/pawn/scene.gltf']
     model = modelos[0]
 
     lista1 =[(1,1),(0,1),
